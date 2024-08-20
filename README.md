@@ -94,7 +94,7 @@ Follow these steps to set up and run the application:
 
 2. **Run the web application**:
     ```bash
-    python workspace/app/run.py
+    python src/app/run.py
     ```
 
 3. **Access the application**:
