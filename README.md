@@ -68,7 +68,7 @@ The primary goal is to build a system capable of classifying disaster messages i
 Here’s an overview of the project directory structure:
 
 - **`README.md`**: This document.
-- **`workspace/`**:
+- **`src/`**:
   - **`app/`**:
     - **`run.py`**: Script to run the Flask web application.
   - **`templates/`**:
